@@ -1,4 +1,4 @@
-# Command-Line Interface Practice
+# Command-Line Interface
 
 A simple Bash-based battle game demonstrating core Linux CLI skills.
 
