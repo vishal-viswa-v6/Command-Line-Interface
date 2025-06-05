@@ -1,6 +1,6 @@
 # Command-Line Interface Practice
 
-A simple Bash-based battle game demonstrating core Linux CLI and Git skills.
+A simple Bash-based battle game demonstrating core Linux CLI skills.
 
 ## Features
 
